@@ -17,11 +17,11 @@
     "express": "^4.17.1"
   },
   "devDependencies": {
-    "@babel/cli": "^7.6.2",
-    "@babel/core": "^7.6.2",
-    "@babel/node": "^7.6.2",
+    "@babel/cli": "^7.7.0",
+    "@babel/core": "^7.23.2",
+    "@babel/node": "^7.13.12",
     "@babel/plugin-proposal-class-properties": "^7.5.5",
-    "@babel/preset-env": "^7.6.2",
-    "nodemon": "^1.19.3"
+    "@babel/preset-env": "^7.22.6",
+    "nodemon": "^3.0.0"
   }
 }
